@@ -1,2 +1,1 @@
-# FTC-DS-Speech
-Contains a wiki tutorial on Text-To-Speech for the FTC Driver Station (DS).
+Contains a [**wiki tutorial**](https://github.com/WestsideRobotics/FTC-DS-Speech/wiki) on Text-To-Speech for the FTC Driver Station (DS).
